@@ -4,7 +4,7 @@ subtitle: null
 layout: layouts/base.njk
 published: true
 ---
-![aaavwlogo.png]({{site.baseurl}}/src/site/aaavwlogo.png)
+![aaavwlogo.png](images/aaavwlogo.png =250x)
 
 
 ## Upcoming events
