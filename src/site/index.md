@@ -5,7 +5,7 @@ layout: layouts/base.njk
 published: true
 ---
 <p align="center">
-<img src="./images/aaavwlogo.png" width="250" height="250">
+<img src="./images/aaavwlogo.png" width="200" height="200">
 
 ## Upcoming Events
 
