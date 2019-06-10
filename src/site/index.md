@@ -1,6 +1,6 @@
 ---
-title: Albuquerque Air Alliance / Route 66 Air Cooled CLub
-subtitle: Event Calendar
+title: Event Calendar
+subtitle: Albuquerque Air Alliance / Route 66 Air Cooled Club
 layout: layouts/base.njk
 ---
 
