@@ -4,6 +4,7 @@ layout: layouts/base.njk
 subtitle: 
 ---
 <p align="center">
+  
 <img src="./images/aaavwlogo.png" width="250" height="250">
 
 ## Fill out the form below to add and event!
